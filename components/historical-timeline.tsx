@@ -296,13 +296,7 @@ const historicalTimeline: PhaseData[] = [
             url: "https://dantri.com.vn/thoi-su/nghi-quyet-21-tien-toi-thong-nhat-dat-nuoc-duoc-ban-thao-o-dau-khi-nao-20230428154740102.htm"
           }
         ],
-        images: [
-          {
-            url: "https://cdnphoto.dantri.com.vn/F9y6DWgWXRzy9NvfmU1Qc74tYKg=/thumb_w/1360/2023/04/28/img-6053-1682671577227.jpg",
-            caption: "Ông Hoàng Văn Thái (bên phải) và ông Đặng Quân Thụy (bên trái) chụp ảnh với Phái viên Bộ Tổng Tham mưu Võ Quang Hồ tại Hà Nội trước ngày ông Hồ vào Nam truyền đạt Nghị quyết 21, Khóa 3.",
-            relatedLink: "https://dantri.com.vn/thoi-su/nghi-quyet-21-tien-toi-thong-nhat-dat-nuoc-duoc-ban-thao-o-dau-khi-nao-20230428154740102.htm"
-          }
-        ]
+        images: []
       },
       {
         year: "6/1/1975",
