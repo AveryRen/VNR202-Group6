@@ -365,19 +365,6 @@ export default function PresentationPage() {
                 />
               </div>
 
-              {/* Image 2 */}
-              <div className="relative rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition-shadow">
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img
-                  src="https://viettimes.vn/images/dai-hoi-iv-1976.jpg"
-                  alt="Lãnh đạo Đảng tại Đại hội IV"
-                  className="w-full aspect-video object-cover"
-                  onError={(e) => {
-                    ;(e.target as HTMLImageElement).style.display = 'none'
-                  }}
-                />
-              </div>
-
               {/* Caption */}
               <p className="text-xs text-slate-500 text-center italic leading-relaxed">
                 Đại hội IV của Đảng (1976) tổng kết thắng lợi của cuộc kháng chiến chống Mỹ cứu nước.
